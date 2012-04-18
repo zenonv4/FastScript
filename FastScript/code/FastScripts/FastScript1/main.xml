@@ -1,0 +1,16 @@
+<fastscript>
+	<window name="Sample Container">
+		<button posx="50px" posy="40px" onclick="alert('amen');" postype="relative">
+			Click for ... but is inside an window
+		</button>
+	</window>
+	<window name="Sample Container" posx="50px" posy="40px" postype="absolute">
+		<button posx="50px" posy="40px" onclick="alert('amen');" postype="relative" >
+			Click for ... but is inside an window
+		</button>
+		<button posx="50px" posy="40px" onclick="alert('amen');" postype="relative">
+			Click for ... but is inside an window
+		</button>
+		<input type="textarea" placeholder="Text" rows="40" cols="40">Text Value</input>
+	</window>
+</fastscript>
