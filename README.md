@@ -1,4 +1,4 @@
 FastScript
 ==========
 
-An fancy script to webpage intrepreter
+Fastscript is an RIA helper. Mainly for the Interface
